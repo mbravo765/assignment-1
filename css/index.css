@@ -1,6 +1,6 @@
 
 body {
   font-family: Gill Sans, sans-serif;
-  background-image: homepic.gif;
+  background-image: url("homepic.gif");
   text-align: center;
 }
