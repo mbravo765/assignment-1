@@ -1,8 +1,8 @@
 
 .header {
-  background-color:blue;
-  text-align: center;
-  padding: 20px;
+  background-color: #3D550C;
+  padding: 40px;
+  color: $ECF87F;
 }
 
 body {
