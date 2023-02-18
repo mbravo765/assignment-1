@@ -1,5 +1,12 @@
+head {
+      font-family: Gill Sans, sans-serif;
+      background-color: green;
+      text-align: center;
+}
+
+
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: salmon;
+  background-image: homepic.gif;
   text-align: center;
 }
