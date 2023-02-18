@@ -1,4 +1,10 @@
 
+header {
+  background-color:blue;
+  text-align: center;
+  padding: 20px;
+}
+
 body {
   font-family: Gill Sans, sans-serif;
   background-image: url('homepic.gif');
