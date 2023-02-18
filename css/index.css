@@ -9,7 +9,7 @@
 
 body {
   font-family: Gill Sans, sans-serif;
-  background-image: "img/homepic.gif";
+  background-image: url('img/homepic.gif');
   text-align: center;
 }
 
