@@ -6,7 +6,7 @@ Michelle Bravo
 This repository is the starter code for Assignment 1 - Zoo.
 
 ### Live Link
-[Website link]https://mbravo765.github.io/assignment-1/
+[Website link] https://mbravo765.github.io/assignment-1/
 
 ----------
 ### 1. Use the following process to ***import*** the Assignment 1 starter code repository to your GitHub account as your starter codebase
