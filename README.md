@@ -1,3 +1,6 @@
+Michelle Bravo
+
+
 # zoo-starter-code
 
 This repository is the starter code for Assignment 1 - Zoo.
